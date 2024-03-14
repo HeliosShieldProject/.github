@@ -1,1 +1,1 @@
-# .github
+# Helios Shield Project (codename)
