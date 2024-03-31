@@ -1,1 +1,1 @@
-# Helios Shield Project (codename)
+# Helios Project
